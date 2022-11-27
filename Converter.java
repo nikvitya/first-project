@@ -1,1 +1,2 @@
-class GitNew
+class Converter {
+}
